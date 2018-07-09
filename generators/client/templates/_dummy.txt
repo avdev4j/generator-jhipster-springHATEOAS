@@ -1,0 +1,2 @@
+hello springHATEOAS!
+It's dummy.txt
